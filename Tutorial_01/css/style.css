@@ -1,0 +1,24 @@
+table {
+  border: 1px solid black;
+}
+
+td {
+  height: 30px;
+  width: 30px;
+}
+
+.black {
+  background: black;
+}
+
+.wrapper {
+  width: 275px;
+  margin: 0 auto;
+  margin-top: 100px;
+  text-align: center;
+  
+}
+
+.chessboardheader {
+  font-size: 30px;
+}
